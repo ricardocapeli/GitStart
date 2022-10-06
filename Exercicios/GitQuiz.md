@@ -145,7 +145,7 @@ b) Um pequeno bastão de madeira que você pode usar para digitar comandos. </p>
 c) Uma versão separada do repositório principal. </p>
 d) Nada, é uma palavra sem sentido. </p>
 
-R:
+R: c
 
 16 - Qual é o comando para criar um novo branch chamado "new-email"?
 
@@ -198,7 +198,7 @@ b) git remote add origin https://abc.xyz/d/e.git  </p>
 c) git remote https://abc.xyz/d/e.git </p>
 d) git add origin https://abc.xyz/d/e.git </p>
 
-R:
+R: b
 
 22 - Qual é o comando para enviar o repositório atual para a origem remota?
 
@@ -207,7 +207,7 @@ b) git merge remote </p>
 c) git remote push </p>
 d) git push origin </p>
 
-R:
+R: d
 
 23 - Qual é o comando para obter todo o histórico de alterações do repositório remoto "origin"?
 
@@ -216,7 +216,7 @@ b) git busca origem </p>
 c) git status origem remota </p>
 d) ajuda do git origin </p>
 
-R:
+R: c
 
 24 - Qual é o comando para mostrar as diferenças entre o branch atual e o branch "new-email"?
 
