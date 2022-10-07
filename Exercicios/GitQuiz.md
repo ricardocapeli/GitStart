@@ -50,7 +50,7 @@ b) --A </p>
 c) --all </p>
 d) Não há necessidade de especificar, esse é o padrão. </p>
 
-R:
+R: A.
 
 5 - Qual é o comando para definir o email do usuário para o repositório atual?
 
@@ -66,7 +66,7 @@ a) git add  </p>
 b) git add --files </p>
 c) git add --all </p>
 
-R: 
+R: C.
 
 7 - Qual é o comando para obter o status atual do repositório Git?
 
@@ -198,7 +198,7 @@ b) git remote add origin https://abc.xyz/d/e.git  </p>
 c) git remote https://abc.xyz/d/e.git </p>
 d) git add origin https://abc.xyz/d/e.git </p>
 
-R:
+R: B.
 
 22 - Qual é o comando para enviar o repositório atual para a origem remota?
 
@@ -207,7 +207,7 @@ b) git merge remote </p>
 c) git remote push </p>
 d) git push origin </p>
 
-R:
+R: D.
 
 23 - Qual é o comando para obter todo o histórico de alterações do repositório remoto "origin"?
 
@@ -216,7 +216,7 @@ b) git busca origem </p>
 c) git status origem remota </p>
 d) ajuda do git origin </p>
 
-R:
+R: A.
 
 24 - Qual é o comando para mostrar as diferenças entre o branch atual e o branch "new-email"?
 
@@ -225,7 +225,7 @@ b) git status novo e-mail </p>
 c) git diff novo-email </p>
 d) git altera novo-e-mail </p>
 
-R:
+R: C.
 
 25 - Git Pull é uma combinação de:
 
@@ -233,5 +233,5 @@ a) add and commit </p>
 b) branch and checkout </p>
 c) fetch and merge  </p>
 
-R:
+R: C.
 
